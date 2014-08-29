@@ -38,8 +38,8 @@
 			// Options for fixing header. 
 			fixHeaderOptions: { 
 					required: false, 
-					height: 200, 
-					width: 600,					
+				//	height: 200, 
+			//		width: 600,					
 					disableMessages: false,
 					messages: [], 
 					nextMessageIndex: 0,
